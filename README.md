@@ -2,9 +2,11 @@
 
 🎓 I'm a student at UC Berkeley studying Math, and I'm a member of Blockchain at Berkeley.
 
-🙇‍♂️  I'm interested in blockchain technology, optimization, ML, and security.
+🙇‍♂️  I'm interested in fullstack engineering, blockchain technology, optimization, ML, and security.
 
 📚 I'm always looking to work or learn something new!
+
+
 
 📧 Reach me at mkarim117@berkeley.edu or karimimar2004@gmail.com
 
