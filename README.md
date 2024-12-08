@@ -1,6 +1,6 @@
 # Hi 👋 I'm Marc
 
-🎓 I'm a student at UC Berkeley studying Math, and I'm a member of Blockchain at Berkeley.
+🎓 I'm a student at UC Berkeley and a member of Blockchain at Berkeley.
 
 🙇‍♂️  I'm interested in fullstack engineering, Infra, blockchain technology, optimization, ML, and security.
 
