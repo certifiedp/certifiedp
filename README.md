@@ -1,10 +1,10 @@
 # Hi 👋 I'm Marc
 
-🎓 I'm a Berkeley Graduate and Engineer at Coinbase
+🎓 I'm a Berkeley Graduate and a Software Engineer at Coinbase
 
-📚 I'm always looking to work or learn something new!
+📚 I'm always looking to work on something new!
 
-📧 Reach me at mkarim117@berkeley.edu or karimimar2004@gmail.com
+📧 Reach me: mkarim117@berkeley.edu or karimimar2004@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karimi-marc/) 
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/marckarimi)
